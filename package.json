@@ -1,6 +1,6 @@
 {
   "name": "Event-Management",
-  "homepage": "https://Jawadansari .github.io/Event-Management",
+  "homepage": "https://Jawadansari .github.io/test",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +13,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "git": "^0.1.5",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
